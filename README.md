@@ -14,7 +14,7 @@
 
 大家有任何关于Chrome的使用技巧以及插件推荐，或者在使用中遇到问题，都可以联系我
 
-<img src="README.assets/%E6%88%91%E7%9A%84%E5%BE%AE%E4%BF%A1-1573114734041.jpg" alt="我的微信" style="zoom:Infinity%;" />
+<img src="README.assets/%E6%88%91%E7%9A%84%E5%BE%AE%E4%BF%A1-1573114863992.jpg" alt="我的微信" style="zoom:25%;" />
 
 另外，PDF文档会不断地更新，这是为了方便大家下载下来本地学习，请持续关注，为避免失联，请关注公众号，以免错过更新消息！
 
