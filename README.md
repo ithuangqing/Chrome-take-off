@@ -1,2 +1,4 @@
-# Chrome-plugin-recommendation
-推荐一些好用的chrome插件，让chrome飞起来！
+因为Chrome真的很强大，有很多值得挖掘的地方，用的好，真的是一大利器，因此想不断学习挖掘Google Chrome，这是个长久之事，所以希望大家可以一起来。
+
+大家有任何关于Chrome的使用技巧以及插件推荐，或者在使用中遇到问题，都可以联系我：
+
